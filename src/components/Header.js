@@ -38,7 +38,7 @@ const Header = () => {
         <div className="relative">
           <div className="aspect-[4/3] rounded-3xl overflow-hidden shadow-2xl border border-pink-100/20">
             <img
-              src="/Banner.png"          // file: public/Banner.png
+              src="/banner.png"          // file: public/Banner.png
               alt="Cancer awareness support"
               className="h-full w-full object-cover"
             />
